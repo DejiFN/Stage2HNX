@@ -50,6 +50,8 @@ The API should now be running on [http://localhost:10000/api](http://localhost:1
 Can check the hosted functionality at [https://stage2-ctuf.onrender.com/api]
 
 ## API Endpoints
+Before testing with postman make sure you set
+![image](https://github.com/DejiFN/Stage2HNX/assets/82783426/7582c268-4293-4086-858f-eb2b83f671d4)
 
 ### Create a New Person
 
