@@ -156,7 +156,8 @@ The API handles the following HTTP error codes and returns JSON responses:
 # UML IMAGE
 ![image](https://github.com/DejiFN/Stage2HNX/assets/82783426/46ca309e-a5a8-4767-a55a-1757fbb876b2)
 
-#ER IMAGE
+
+# ER IMAGE
 ![image](https://github.com/DejiFN/Stage2HNX/assets/82783426/6b6ab8db-5aba-4e0e-88c8-9fc329d9ba8d)
 
 
