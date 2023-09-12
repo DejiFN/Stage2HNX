@@ -47,6 +47,8 @@ This is a simple Flask application that implements a CRUD (Create, Read, Update,
 
 The API should now be running on [http://localhost:10000/api](http://localhost:10000/api).
 
+Can check the hosted functionality at [https://stage2-ctuf.onrender.com/api]
+
 ## API Endpoints
 
 ### Create a New Person
