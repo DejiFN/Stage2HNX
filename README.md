@@ -166,7 +166,7 @@ The API handles the following HTTP error codes and returns JSON responses:
 
 
 ## assumption
-all queries are done with id as name cannot be unique
+all queries are done with id as name cannot be unique <br />
 once user is deleted his ID can no longer be used as an access point due to unique key
 
 
