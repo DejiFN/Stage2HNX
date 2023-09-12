@@ -16,7 +16,7 @@ This is a simple Flask application that implements a CRUD (Create, Read, Update,
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/flask-crud-api.git
+   git clone https://github.com/DejiFN/Stage2HNX.git
    ```
 
 2. Change to the project directory:
